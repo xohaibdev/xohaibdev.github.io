@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0c87e7ef.css",
-    "main.js": "/static/js/main.d4f39dc9.js",
+    "main.js": "/static/js/main.3b17be24.js",
     "static/css/64.917cfe77.chunk.css": "/static/css/64.917cfe77.chunk.css",
     "static/js/64.a2201178.chunk.js": "/static/js/64.a2201178.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
@@ -25,6 +25,7 @@
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/programmer.svg": "/static/media/programmer.becd1465cc28d37ba166.svg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.6f29b1988f86d14c7845.svg",
+    "static/media/Badr Aldin Marketting Logo.png": "/static/media/Badr Aldin Marketting Logo.ab5f571c16aba4154b0e.png",
     "static/media/comsats.png": "/static/media/comsats.bf26710ffe3c75a780f2.png",
     "static/media/outdone.png": "/static/media/outdone.4cb7a3ab9eadd343a870.png",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
@@ -39,7 +40,7 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.3227e84a89a1650db619.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.0c87e7ef.css.map": "/static/css/main.0c87e7ef.css.map",
-    "main.d4f39dc9.js.map": "/static/js/main.d4f39dc9.js.map",
+    "main.3b17be24.js.map": "/static/js/main.3b17be24.js.map",
     "64.917cfe77.chunk.css.map": "/static/css/64.917cfe77.chunk.css.map",
     "64.a2201178.chunk.js.map": "/static/js/64.a2201178.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
@@ -47,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.0c87e7ef.css",
-    "static/js/main.d4f39dc9.js"
+    "static/js/main.3b17be24.js"
   ]
 }
